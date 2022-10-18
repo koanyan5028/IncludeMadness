@@ -1,0 +1,18 @@
+#include <iostream>
+
+#include "Int.h"
+#include "Main.h"
+#include "LBracket.h"
+#include "RBracket.h"
+#include "BeginBlock.h"
+#include "Std.h"
+#include "ScopeResolurion.h"
+#include "COut.h"
+#include "LShift.h"
+#include "HelloWorld.h"
+#include "LShift.h"
+#include "Std.h"
+#include "ScopeResolurion.h"
+#include "EndL.h"
+#include "Semicolon.h"
+#include "EndBlock.h"
